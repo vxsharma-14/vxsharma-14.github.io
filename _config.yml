@@ -31,7 +31,7 @@ twitter_username: followingVishal
 github_username:  vxsharma-14
 # repository: vxsharma-14/vxsharma-14.github.io
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
