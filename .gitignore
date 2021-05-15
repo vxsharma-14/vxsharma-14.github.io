@@ -1,0 +1,8 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.ipynb_checkpoints
+_posts_samples
+projects
