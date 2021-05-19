@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Home"
+    url: /home/
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /resume/
+  - title: "Research & Teaching"
+    url: /research/
+  - title: "Consulting"
+    url: /consulting/
+  - title: "Contact"
+    url: /contact/
