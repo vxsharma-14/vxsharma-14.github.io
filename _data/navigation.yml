@@ -10,5 +10,7 @@ main:
     url: /research/
   - title: "Consulting"
     url: /consulting/
+  - title: "Tutoring"
+    url: /concepts-simplified/
   - title: "Contact"
     url: /contact/
