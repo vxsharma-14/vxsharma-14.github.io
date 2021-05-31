@@ -36,12 +36,13 @@ We offer tutoring for the following courseworks:
 In addition to tutoring, we also offer a learning curriculum in Scientific Computing with Python for those who are interested in developing a background in computational applications in Engineering.
 
 Our objective is to make education easy and enjoyable for you using our innovative tutoring approaches. WE ARE HERE TO HELP YOU!
-
-We offer subscription based packages at affordable prices and hassle-free cancellation. Email us at <conceptssimplified.tutors@gmail.com> to know more about our offered packages and plans or fill out this [SignUp form](https://forms.gle/fs3okKCEX2thtwi99).
-
+<p>
+	We offer subscription based packages at affordable prices and hassle-free cancellation.
+	<br><a href="mailto:conceptssimplified.tutors@gmail.com">Email us</a> your inquiries to know more about our offered packages and plans or fill out this <a href="https://forms.gle/fs3okKCEX2thtwi99">SignUp form</a>.
+</p>{: .notice--info}
 Hurry up and make your first step towards unlocking your potential by signing up for free introductory sessions! Limited seats available.
 
 <p style="text-align: center;">
 	<i>Learn difficult concepts in the simplest way so that you will never hate Math and Physics again.</i>
-</p>
+</p>{: .notice--success}
 

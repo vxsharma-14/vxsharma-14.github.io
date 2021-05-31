@@ -8,7 +8,7 @@ permalink: /resume/
 author_profile: true
 ---
 
-[Download Resume Here][1]
+[Download Resume Here][1]{: .btn .btn--success .btn--large}
 
 [1]: /assets/docs/VSharma_CV.pdf
 
