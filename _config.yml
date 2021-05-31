@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # theme                  : minimal-mistakes-jekyll
-remote_theme           : "mmistakes/minimal-mistakes"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -183,6 +183,7 @@ exclude:
     - .asset-cache
     - .bundle
     - .jekyll-assets-cache
+    - vendor
 #  - assets/js/plugins
 #  - assets/js/_main.js
 #  - assets/js/vendor
@@ -199,7 +200,6 @@ exclude:
 #  - tmp
 #  - /docs # ignore Minimal Mistakes /docs
 #  - /test # ignore Minimal Mistakes /test
-   - vendor
 keep_files:
   - .git
   - .svn
