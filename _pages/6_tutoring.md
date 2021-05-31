@@ -1,6 +1,5 @@
 ---
 layout: single
-class: wide
 share: true
 header:
   overlay_image: /assets/images/image-home-page.jpg
