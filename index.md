@@ -1,12 +1,12 @@
 ---
-layout: single
-title: Vishal Sharma's Portfolio Website
-classes: wide
+layout: home
+author_profile: true
+permalink: /
 hidden: true
+author_profile: true
+title: Vishal Sharma's Portfolio Website
 header:
   overlay_image: /assets/images/image-home-page.jpg
-permalink: /home/
-author_profile: true
 ---
 I conduct research investigations on the development and utilization of computational methods for studying complex physical phenomena occuring in Aerospace Engineering. Alongside, I offer a variety of consulting services and affordable technological solutions in CFD, Data Analytics and Business Intelligence to small and medium scale businesses to scale and streamline their operations. 
 
