@@ -1,14 +1,18 @@
 ---
 layout: single
-title: Concepts Simplified Academic Tutoring
-classes: wide
+class: wide
+share: true
 header:
-  overlay_image: /assets/images/CS-Banner-img.jpg
+  overlay_image: /assets/images/image-home-page.jpg
 permalink: /concepts-simplified/
 author_profile: true
 ---
 
 Concepts Simplified is an online learning platform for Mechanical Engineering, Aerospace Engineering, and High School (Grades X, XI and XII) students.
+
+<video width="640" height="360" controls="controls">
+  <source src="/assets/images/ConceptsSimplified-Ad.mp4" type="video/mp4">
+</video>
 
 We offer tutoring for the following courseworks:
 
@@ -34,5 +38,7 @@ We offer subscription based packages at affordable prices and hassle-free cancel
 
 Hurry up and make your first step towards unlocking your potential by signing up for free introductory sessions! Limited seats available.
 
-*<p style="text-align: center;"> Learn difficult concepts in the simplest way so that you will never hate Math and Physics again. </p>*
+<p style="text-align: center;">
+	<i>Learn difficult concepts in the simplest way so that you will never hate Math and Physics again.</i>
+</p>
 
