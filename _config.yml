@@ -20,13 +20,13 @@
 
 # theme                  : minimal-mistakes-jekyll
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : ""
 title_separator          : ""
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Vishal Sharma" # site tagline that appears below site title in masthead
 name                     : "Vishal Sharma, PhD"
 description              : "My portfolio website to promote my research and consulting work."
 port                     : 4000
@@ -117,7 +117,7 @@ analytics:
 author:
   name                   : "Vishal Sharma, PhD"
   avatar                 : "/assets/images/VSharma_avat.jpg"
-  bio                    : Research Scientist and a Consultant in CFD and Data Analytics
+  bio                    : Researcher in atmospheric-entry aerothermodynamics. I share content on fluid dynamics, aerotherm., and Python related topics.
   location               : "India"
   email                  :
   links:
@@ -233,7 +233,7 @@ sass:
 permalink                : /:categories/:title/
 paginate                 : # 10 # amount of posts to show
 paginate_path            : # /page:num/
-timezone                 : America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone                 : Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 toc                      : true
 atom_feed:
     hide                 : true

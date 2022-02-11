@@ -3,9 +3,12 @@ layout: single
 title: Resume
 classes: wide
 header:
-  overlay_image: /assets/images/image-home-page.jpg
+  overlay_image: /assets/images/image-home-page-Atmospheric_Re-entry_Demonstrator.jpg
+  caption: "Photo credit: [European Space Agency](https://www.esa.int/)"
 permalink: /resume/
-author_profile: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 [Download Resume Here][1]{: .btn .btn--success .btn--large}
@@ -43,13 +46,6 @@ July 2008
 Researcher and Consultant    
 Self-employed  
 *December 2020 – Present*  
-<ins>*Description:*</ins>  
-* Developing an open-source package- NAnPack in **Python** for CFD research applications.  
-* Objective of nanpack software is to save development time for researchers to conduct research in CFD.  
-* Another objective is to impart learning in numerical methods to those interested in simulation and modelling.  
-* Pre-release version (currently 1.0.0-alpha4) available on **Python Packaging Index (PyPI)** and **GitHub**.  
-* Prepared **markdown** documents on **Jupyter Notebook** for software tutorials using **Sphinx** and hosted them on **Read the Docs**.  
-* ~3000 overall downloads according to [PePy - nanpack Download Stats](https://pepy.tech/project/nanpack)
 
 #### **<ins>Previous Experiences</ins>**
 

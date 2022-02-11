@@ -6,11 +6,26 @@ main:
     url: /about/
   - title: "Resume"
     url: /resume/
-  - title: "Research & Teaching"
+  - title: "Research"
     url: /research/
-  - title: "Consulting"
-    url: /consulting/
-  - title: "Tutoring"
-    url: /concepts-simplified/
-  - title: "Contact"
-    url: /contact/
+  # - title: "Research & Teaching"
+  #  url: /research/
+  # - title: "Consulting"
+  #  url: /consulting/
+  # - title: "Tutoring"
+  #  url: /concepts-simplified/
+  # - title: "Contact"
+  #  url: /contact/
+
+docs:
+  - title: "Home"
+    url: /home/
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /resume/
+  - title: "Research"
+    url: /research/
+  - title: "Blogs"
+    url: /posts/
+ 
