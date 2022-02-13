@@ -24,10 +24,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "vxsharma-14.github.io"
 title_separator          : ""
-subtitle                 : "Vishal Sharma" # site tagline that appears below site title in masthead
-name                     : "Vishal Sharma, PhD"
+subtitle                 : "" # site tagline that appears below site title in masthead
+name                     : "vxsharma-14.github.io"
 description              : "My portfolio website to promote my research and consulting work."
 port                     : 4000
 host                     : "0.0.0.0"
@@ -40,9 +40,9 @@ masthead_title           : " " # overrides the website title displayed in the ma
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : #"disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : vxsharma-14-github-io # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : #https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 # , e.g.: meta.discourse.org
   facebook               : #https://developers.facebook.com/docs/plugins/comments
@@ -106,9 +106,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : # google-gtag # false (default), "google", "google-universal", "custom"
+  provider               : google-gtag # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-220189606-1
     anonymize_ip         : # false # false (default)
     optimize_id          : 
     allow_google_signals : # false

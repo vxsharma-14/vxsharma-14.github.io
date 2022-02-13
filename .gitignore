@@ -1,6 +1,12 @@
+_site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 .ipynb_checkpoints
 _posts_samples
 projects
+/_pages/1_about2.md
+/_pages/3_projects2.md
+/_pages/4_contact.md
+/_pages/5_consulting.md
+/_pages/6_tutoring.md

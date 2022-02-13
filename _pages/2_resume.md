@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Resume
-classes: wide
 header:
   overlay_image: /assets/images/image-home-page-Atmospheric_Re-entry_Demonstrator.jpg
   caption: "Photo credit: [European Space Agency](https://www.esa.int/)"
