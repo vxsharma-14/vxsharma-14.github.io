@@ -12,7 +12,7 @@ main:
 # sidebar for resume and research pages
 docs:
   - title: "Home"
-    url: /home/
+    url: /
   - title: "About"
     url: /about/
   - title: "Resume"
