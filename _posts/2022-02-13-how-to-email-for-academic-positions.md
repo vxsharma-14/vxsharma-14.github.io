@@ -62,9 +62,9 @@ See these couple of example email excerpts which led me to initiate conversation
 
 ### Include your CV and a one-page cover letter
 
-Inclusion your CV and a one-page letter in your email is very important for your application. After you have succeeded in making a first positive impression on your prospective supervisor with your email, it is now the letter's turn to solidify your chances of getting an interview. So it should be very well thought and relevant to the group's research work and requirements. Here you will be expanding the details about the sentences that you have mentioned in the email. Specify in detail how your research skills and experience will benefit the group, what skills will you develop while working with him, how this opportunity will lead you to the path to become an independent researcher, etc.
+Inclusion your CV and a one-page letter in your email is very important for your application. After you have succeeded in making a first positive impression on your prospective supervisor with your email, it is now the letter's turn to solidify your chances of getting an interview. So it should be very well thought and relevant to the group's research work and requirements. Here you will be expanding the details about the sentences that you have mentioned in the email. Specify in detail how your research skills and experience will benefit the group, what skills will you develop while working with them, how this opportunity will lead you to the path to become an independent researcher, etc.
 
-If you are writing an unsolicited email and have a research idea on a topic that you want to work on, you may also include a two-page research proposal. Remember to do a thorough literature review because you have to convince him that the topic that you are proposing is novel and promising and can lead to securing grants.
+If you are writing an unsolicited email and have a research idea on a topic that you want to work on, you may also include a two-page research proposal. Remember to do a thorough literature review because you have to convince them that the topic that you are proposing is novel and promising and can lead to securing grants.
 
 ### Don't hesitate from sending unsolicited applications
 
@@ -78,7 +78,7 @@ I always that the best time to send emails is during their mornings when they ar
 
 I will recommend you not to email them during late office hours or during weekends. {: .notice--warning}
 
-### Ask them whether his schedule permits time for a short discussion
+### Ask them whether their schedule permits time for a short discussion
 
 In your email, I will highly suggest to always include a sentence asking to speak with them for a few minutes. For example, you may write somethig  like this
 
@@ -102,11 +102,11 @@ Professors are busy people, so I expect that a 30-day period is a reasonable tim
 
 There are tons of Universities worldwide where you can do your research. During the wait time, you don't want to just sit and wait for their reply. You can improve your chances of getting by searching for more professors, emailing them using the same ground rules as discussed above. This is an iterative and a time consuming process but it will be worth your efforts if you are sincerely interested in an academic position. This whole process is also an opportunity for you to connect and grow your professional network.
 
-### Know your PI and his lab culture
+### Know your PI and their lab culture
 
-Just like a PI will do his due diligence before hiring you, it is very important for you to do your due diligence on your prospective PI and his lab to find out how he is as a person to work with, how his lab functions, how many students or post-docs are working with him, etc?
+Just like a PI will do their due diligence before hiring you, it is very important for you to do your due diligence on your prospective PI and their lab to find out how they are as a person to work with, how their lab functions, how many students or post-docs are working with them, etc?
 
-The best way to obtain this information is through his lab members. They will probably give you an honest review about it. Getting in contact with them to build connection with them and asking questions is the best option for you. You may also speak with your previous or present supervisor about your application and ask for helpful advise on your application.  
+The best way to obtain this information is through their lab members. They will probably give you an honest review about it. Getting in contact with them to build connection with them and asking questions is the best option for you. You may also speak with your previous or present supervisor about your application and ask for helpful advise on your application.  
 
 ## Conclusion
 
