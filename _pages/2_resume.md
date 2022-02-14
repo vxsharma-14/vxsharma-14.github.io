@@ -15,7 +15,7 @@ sidebar:
 [1]: /assets/docs/VSharma_CV.pdf
 
 ## Vishal Sharma  
-17 Ideal Grande, Jabalpur (M.P.), India  
+Sector-19, Noida, U.P., India  
 Email: [vxsharma14@gmail.com](mailto:vxsharma14@gmail.com) **|** 
 GitHub: [vxsharma-14](https://github.com/vxsharma-14)
 
@@ -35,7 +35,7 @@ July 2008
 #### **<ins>Skills</ins>**
 **Programming**: Python, Fortran, C++ and Matlab  
 **Engineering Softwares**: Ansys- CFD Workbench, CATIA, Tecplot, Paraview  
-**Data Analytics** : SQL, RDBMS, Tableau, Python libraries- matplotlib, numpy, scipy, tkinter, pandas and seaborn
+**Data Analytics** : SQL, RDBMS, Tableau, Python libraries- matplotlib, numpy, scipy, tkinter, pandas and seaborn  
 **Office Tools**: Microsoft - Word, PowerPoint, Excel, and Google - Docs, Sheets  
 **Operating Systems**: Windows, UNIX  
 **IDEs**: Spyder, Eclipse, Python IDLE, Jupyter Notebook, MS Visual Studio
