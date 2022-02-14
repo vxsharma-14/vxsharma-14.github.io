@@ -19,10 +19,10 @@ tags:
 Writing emails to professors/PIs for seeking an MS research, PhD or a postdoc position can be a daunting task. Through this post, I want to share the tiny details on writing solicited or unsolicited emails to Professors/PIs based on my experiences. Successful applications require a lot of preparation and hopefully this article will give you some insights to write an impressive email.
 
 At this point, I will ask you to consider my learnings and suggestions only as a helpful guide and not construe it as a standard set of instructions on this topic.
-{. :notice--warning}
+{: .notice--warning}
 
 **A word of motivation**: "The journey matters as much as the goal." - Kalpana Chawla
-{. :notice--info}
+{: .notice--info}
 
 ## Dos and Don'ts
 
@@ -52,9 +52,9 @@ Whether you are emailing a PI for an advertised position or writing them to inqu
 3. Now that you know about the research profile of your prospective supervisor, draft your email with a personal touch. For example, mention how your research interests and skills align with your supervisor's research and what contributions you can make to their lab. Show them with examples that your skills will help them in their ongoing projects. 
 
 By following these steps, your application will be impactful. In addition, you will be developing rapport with the PI. 
-Be specific and don't be too technical. One paragraph with two or three sentences is just what you need. {. :notice--info}
+Be specific and don't be too technical. One paragraph with two or three sentences is just what you need. {: .notice--info}
 
-See these example excerpts which led me to initiate conversation with the PIs.
+See these couple of example email excerpts which led me to initiate conversation with the PIs.
 
 {% include figure image_path="/assets/images/posts/email_prof_2.png" alt="personalized emails" %}
 {% include figure image_path="/assets/images/posts/email_prof_3.png" alt="personalized emails" %}
@@ -75,7 +75,7 @@ Even when there is no open role in their group, the positive impact that you hav
 
 You may want to email them during the morning when they are about to start their workday. Just send the email at the time when you think it will be noticed instead of getting lost in their inbox.
 
-Remember to not email them during late office hours or during weekends. {. :notice--warning}
+Remember to not email them during late office hours or during weekends. {: .notice--warning}
 
 ### Ask them whether his schedule permits time for a short discussion
 
@@ -109,4 +109,4 @@ The best way to obtain this information is through his lab members. They will pr
 
 ## Conclusion
 
-I have tried to cover intrinsic details from my experiences. Hopefully, you find this article helpful for your next job search within academia. Please feel free to contact me if you have any questions or suggestions.
+I have tried to cover intrinsic details from my experiences. Hopefully, you find this article helpful for your next job search within academia. Please feel free to leave a comment below or contact me if you have any questions or suggestions.
