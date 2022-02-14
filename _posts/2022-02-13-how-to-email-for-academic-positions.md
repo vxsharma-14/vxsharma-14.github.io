@@ -81,7 +81,7 @@ Remember to not email them during late office hours or during weekends. {: .noti
 
 In your email, always include a sentence asking to speak with them for a few minutes. For example, you may write somethig  like this
 
-> "If your schedule allows, can we schedule a Zoom/Teams call to speak briefly about my research proposal?
+> "If your calendar allows, can we schedule a Zoom/Teams call at your convenience to speak briefly about my research proposal?
 
 ### Don't send a LinkedIn request
 
