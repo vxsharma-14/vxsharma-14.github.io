@@ -20,7 +20,7 @@
 
 # theme                  : minimal-mistakes-jekyll
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -34,7 +34,7 @@ host                     : "0.0.0.0"
 url                      : "https://vxsharma-14.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : vxsharma-14/vxsharma-14.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/joel-filipe-thumb-800.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # /assets/images/joel-filipe-thumb-800.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -117,7 +117,7 @@ analytics:
 author:
   name                   : "Vishal Sharma, PhD"
   avatar                 : "/assets/images/VSharma_avat.jpg"
-  bio                    : Researcher in atmospheric-entry aerothermodynamics. I share content on fluid dynamics, aerotherm., and Python related topics.
+  bio                    : Researcher in atmospheric-entry aerothermodynamics. I share content on fluid dynamics, academic topics, and Python related topics.
   location               : "India"
   email                  :
   links:
@@ -181,6 +181,7 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 exclude:
+    - _jupyter
     - .asset-cache
     - .bundle
     - .jekyll-assets-cache
