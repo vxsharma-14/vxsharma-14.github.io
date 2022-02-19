@@ -18,7 +18,7 @@ tags:
 
 Writing emails to professors/PIs for seeking an MS research, PhD or a postdoc position can be a daunting task. Through this post, I want to share the tiny details on writing solicited or unsolicited emails to Professors/PIs based on my experiences. Successful applications require a lot of preparation and hopefully this article will give you some insights to write an impressive email.
 
-Before starting, I will suggest you to consider my learnings and suggestions only as a helpful guide on this topic.
+Before starting, I would suggest you to consider my learnings and suggestions only as a helpful guide on this topic.
 {: .notice--warning}
 
 **A word of motivation**: "The journey matters as much as the goal." - Astronaut Kalpana Chawla
@@ -53,7 +53,8 @@ Whether you are emailing a PI for an advertised position or writing them to inqu
 
 By following these steps, your application will be impactful. In addition, you will be developing rapport with the prospective PI.  
 
-Be specific and don't be too technical. One paragraph with two or three sentences is just what you need. {: .notice--info}  
+Be specific and don't be too technical. One paragraph with two or three sentences is just what you need.
+{: .notice--info}  
 
 See these couple of example email excerpts which led me to initiate conversation with the PIs.  
 
@@ -76,11 +77,12 @@ Even when there is no open role in their group, the positive impact that you hav
 
 I always that the best time to send emails is during their mornings when they are about to start their workday. You might want to consider the timing aspect and plan to send the email at a time when you think it will be noticed.
 
-I will recommend you not to email them during late office hours or during weekends. {: .notice--warning}
+I'd recommend you not to email them during late office hours or during weekends.
+{: .notice--warning}
 
 ### Ask them whether their schedule permits time for a short discussion
 
-In your email, I will highly suggest to always include a sentence asking to speak with them for a few minutes. For example, you may write somethig  like this
+I would strongly advise to always include a sentence in your email asking to speak with them for a few minutes. For example, you may write somethig  like this
 
 > "If your calendar allows, can we schedule a Zoom/Teams call at your convenience to speak briefly about my research proposal?
 
