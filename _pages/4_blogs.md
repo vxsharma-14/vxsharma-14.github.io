@@ -13,12 +13,12 @@ intro_phd:
 feature_row_phd:
   - image_path: /assets/images/posts/jupyter_nb_header1.jpg
     title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 2"
-    url: /jupyter-notebooks/guide-jupyter-notebook-for-scientific-writing-part-2/
+    url: /jupyter%20notebooks/guide-jupyter-notebook-for-scientific-writing-part-2/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/posts/jupyter_nb_header1.jpg
     title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 1"
-    url: /jupyter-notebooks/guide-jupyter-notebook-for-scientific-writing-part-1/
+    url: /jupyter%20notebooks/guide-jupyter-notebook-for-scientific-writing-part-2/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/posts/email_header1.jpg
