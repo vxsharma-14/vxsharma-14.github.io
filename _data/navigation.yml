@@ -2,21 +2,25 @@
 main:
   - title: "Home"
     url: /
+  - title: "Blogs"
+    url: /blogs/
   - title: "About"
     url: /about/
   - title: "Resume"
     url: /resume/
   - title: "Research"
     url: /research/
+  
 
 # sidebar for resume and research pages
 docs:
   - title: "Home"
     url: /
+  - title: "Blogs"
+    url: /blogs/
   - title: "About"
     url: /about/
   - title: "Resume"
     url: /resume/
   - title: "Research"
     url: /research/
- 
