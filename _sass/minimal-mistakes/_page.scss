@@ -30,10 +30,10 @@ body {
           flex-direction: column;
 }
 
-.initial-content,
-.search-content {
-  flex: 1 0 auto;
-}
+//.initial-content,
+//.search-content {
+//  flex: 1 0 auto;
+//}
 
 .page {
   @include breakpoint($large) {
@@ -73,8 +73,9 @@ body {
 }
 
 .page__title {
-  margin-top: 0;
+  // margin-top: 0;
   line-height: 1;
+  margin: 0.5em 0 0.5em;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -87,10 +88,12 @@ body {
 }
 
 .page__content {
-  text-align: justify;
+  // text-align: justify;
+  margin: 1.5em 0 0 1em;
   h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    padding-top: 0.7em;
+    // padding-bottom: 0.5em;
+    border-bottom: 0px solid $border-color;
   }
 
 	h1, h2, h3, h4, h5, h6 {
@@ -109,11 +112,14 @@ body {
 			opacity: 1;
 		}
 	}
+    
+  p {
+    font-size: 0.8em;
+  }
 
-  p,
   li,
   dl {
-    font-size: 0.8em;
+    font-size: 0.9em;
   }
 
   /* paragraph indents */
@@ -173,8 +179,8 @@ body {
 
   &--overlay {
     position: relative;
-    margin-bottom: 2em;
-    padding: 3em 0;
+    margin-bottom: 1em;
+    padding: 2.5em 0;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
@@ -255,9 +261,9 @@ body {
    ========================================================================== */
 
 .page__share {
-  margin-top: 2em;
-  padding-top: 1em;
-  border-top: 1px solid $border-color;
+  // margin-top: 2em;
+  // padding-top: 1em;
+  // border-top: 1px solid $border-color;
 
   @include breakpoint(max-width $small) {
     .btn span {
@@ -284,10 +290,10 @@ body {
    ========================================================================== */
 
 .page__meta {
-  margin-top: 2em;
+  margin-top: 1em;
   color: $muted-text-color;
   font-family: $sans-serif;
-  font-size: $type-size-6;
+  font-size: $type-size-8;
 
   p {
     margin: 0;
