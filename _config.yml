@@ -311,7 +311,7 @@ defaults:
         mathjax          : true
         show_date        : true
         toc_sticky       : true
-        toc_label        : "Contents"
+        toc_label        : "CONTENTS"
         
     # _pages
     - scope:
