@@ -27,7 +27,7 @@ locale                   : "en-US"
 title                    : "vxsharma-14.github.io"
 title_separator          : ""
 subtitle                 : "vxsharma-14.github.io" # site tagline that appears below site title in masthead
-name                     : "vxsharma-14.github.io"
+name                     : "Dr. Vishal Sharma"
 description              : "My portfolio website to promote my research and consulting work."
 port                     : 4000
 host                     : "0.0.0.0"
