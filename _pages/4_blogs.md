@@ -18,7 +18,7 @@ feature_row_phd:
     btn_class: "btn--success"
   - image_path: /assets/images/posts/jupyter_nb_header1.jpg
     title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 1"
-    url: /jupyter%20notebooks/guide-jupyter-notebook-for-scientific-writing-part-2/
+    url: /jupyter%20notebooks/guide-jupyter-notebook-for-scientific-writing-part-1/
     btn_label: "Read More"
     btn_class: "btn--success"
   - image_path: /assets/images/posts/email_header1.jpg
