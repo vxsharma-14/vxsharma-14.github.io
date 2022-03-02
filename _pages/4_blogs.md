@@ -15,17 +15,17 @@ feature_row_phd:
     title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 2"
     url: /jupyter%20notebooks/guide-jupyter-notebook-for-scientific-writing-part-2/
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
   - image_path: /assets/images/posts/jupyter_nb_header1.jpg
     title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 1"
     url: /jupyter%20notebooks/guide-jupyter-notebook-for-scientific-writing-part-2/
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
   - image_path: /assets/images/posts/email_header1.jpg
     title: "Emailing tips for Grad Students, PhDs and Postdocs for Research Positions in Academia"
     url: /how-to-email-for-academic-positions/
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 
 intro_fluids: 
   - title: "Fluid Dynamics Posts"
@@ -35,19 +35,19 @@ feature_row_fluids:
     title: "Learning the art of CFD from scratch: An Introduction"
     url: https://www.linkedin.com/pulse/learning-art-cfd-from-scratch-introduction-vishal-sharma/
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
   - image_path: /assets/images/posts/linkedin_posts/Banner_2.png
     alt: "stability analysis text image"
     title: "Understanding Errors and Stability Requirements of Numerical Schemes in CFD"
     url: https://www.linkedin.com/pulse/understanding-stability-requirements-numerical-schemes-vishal-sharma/
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
   - image_path: /assets/images/posts/linkedin_posts/Banner_3.png
     alt: "finite difference methods in CFD text image"
     title: "Finite Difference Methods in CFD - Part I"
     url: https://www.linkedin.com/pulse/finite-difference-methods-cfd-part-i-vishal-sharma/
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 
 
 ---
