@@ -163,9 +163,9 @@ Create a table using the syntax shown below. Pipe `|` character separates the co
 
 ```
 * List item.
-    * Sub-list.
+    - Sub-list.
 * Another list item.
-    * Sub-list.
+    - Sub-list.
 ```
 
 *Output:*
