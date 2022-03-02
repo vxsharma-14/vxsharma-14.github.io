@@ -6,7 +6,6 @@ header:
   caption: "Photo by [Nick Morrison](https://unsplash.com/@nickmorrison) on [Unsplash](https://unsplash.com/)"
 date: March 01, 2022
 toc: true
-toc_label: "Content"
 tags:
   - Academic Writing
   - Jupyter Notebboks
@@ -171,9 +170,9 @@ Create a table using the syntax shown below. Pipe `|` character separates the co
 *Output:*
 
 * List item.
-    * Sub-list.
+    - Sub-list.
 * Another list item.
-    * Sub-list.
+    - Sub-list.
 
 <i class="far fa-sticky-note"></i> **Note.** To create a nested list, indent each sublist item by four whitespaces (or a tab character).
 {: .notice--info}  
@@ -297,7 +296,7 @@ Create blockquotes using the `>` character as a prefix to the paragraph text.
 <i class="far fa-thumbs-up"></i> **Best Practice.** Always insert blank lines before and after the blockquotes.
 {: .notice--warning}  
 
-### Create Checklists
+### Creating Checklists
 
 Create checklists with checkboxes using the syntax: `- [ ] task title`. To select a checkbox, add an `x` in between the square brackets `[x]`.
 
