@@ -62,7 +62,7 @@ $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
 $background-color: #fff !default;
-$code-background-color: #fafafa !default;
+$code-background-color: rgba(220, 220, 220, .5) !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
 $muted-text-color: mix(#fff, $text-color, 20%) !default;
@@ -166,7 +166,7 @@ $right-sidebar-width-wide: 400px !default;
 
 $border-radius: 4px !default;
 $box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125) !default;
-$nav-height: 2em !default;
+$nav-height: 1em !default;
 $nav-toggle-height: 2rem !default;
 $navicon-width: 1.5rem !default;
 $navicon-height: 0.25rem !default;
