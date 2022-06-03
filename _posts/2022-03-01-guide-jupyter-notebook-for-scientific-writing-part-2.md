@@ -16,7 +16,7 @@ category:
   - Jupyter Notebooks
 ---
 
-This is Part 2 of the series on Jupyter Notebooks for Scientific Documentation. A brief introduction of Markdown language is presented along with useful Markdown syntaxes. See [Part 1](/jupyter%20notebooks/guide-jupyter-notebook-for-scientific-writing-part-1/) for introduction to Jupyter Notebook.
+This is Part 2 of the series on Jupyter Notebooks for Scientific Documentation. A brief introduction of Markdown language is presented along with useful Markdown syntax. See [Part 1](/jupyter%20notebooks/guide-jupyter-notebook-for-scientific-writing-part-1/) for introduction to Jupyter Notebook. See [Part 3](/jupyter%20notebooks/guide-jupyter-notebook-for-scientific-writing-part-3/) to learn about LaTeX typesetting in Markdown and useful LaTeX syntax.
 {: .notice}  
 
 ## What is Markdown?
@@ -227,11 +227,11 @@ See online image of an [SR-71](https://unsplash.com/photos/Tquhp9Kqkzk) by NASA 
 
 *Example input:*
 
-``Slope of a line is given by the expression `y=mx+c` ``.
+``Print a message in Python using the `print()` function.``  
 
 *Output:*
 
-Slope of a line is given by the expression `y=mx+c`. 
+Print a message in Python using the `print()` function.  
 
 A **Code block** consists of multiple lines of code statements or snippets. You may want to show a code block to your reader as codes instead of a plain texts. This can be done by placing the code block on a new line between three backtick characters at the beginning of the block and three at the end of the code block.
 
