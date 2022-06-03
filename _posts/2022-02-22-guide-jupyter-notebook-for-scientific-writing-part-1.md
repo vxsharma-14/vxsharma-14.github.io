@@ -17,7 +17,7 @@ category:
   - Jupyter Notebooks
 ---
 
-This is Part 1 of the series on Jupyter Notebooks for Scientific Documentation. This article presents you an introductory information about JupyterLab and its capabilities.
+This is Part 1 of the series on Jupyter Notebooks for Scientific Documentation. This article presents you an introductory information about JupyterLab and its capabilities. See [Part2](/jupyter%20notebooks/guide-jupyter-notebook-for-scientific-writing-part-2/) to learn about Markdown language and useful Markdown syntax. See [Part 3](/jupyter%20notebooks/guide-jupyter-notebook-for-scientific-writing-part-3/) to learn about LaTeX typesetting in Markdown and useful LaTeX syntax.
 {: .notice}  
 
 ## Introduction
