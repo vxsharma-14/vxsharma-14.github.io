@@ -177,7 +177,7 @@ LaTeX syntax for rendering frequently used Greek letters are given below. For a 
 | Integral with limits | `$\int\limits_{n=1}^{M}$` | $\int\limits_{n=1}^{M}$ |
 | Contour integral | `$\oint$` | $\oint$ |
 
-**Miscallaneous symbols**
+**Miscellaneous symbols**
 
 | Description | LaTeX code | Output |
 | :----- | :------ | :------: |
