@@ -1,8 +1,8 @@
 ---
 title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 3 - LaTeX"
-excerpt: "Learn about LaTex  and see the list of important LaTeX syntax."
+excerpt: "Learn about LaTeX and see the list of important LaTeX syntax."
 header:
-  image: /assets/images/posts/jupyter_nb_header1.jpg
+  teaser: /assets/images/posts/jupyter_nb_header1.jpg
   caption: "Photo by [Nick Morrison](https://unsplash.com/@nickmorrison) on [Unsplash](https://unsplash.com/)"
 date: March 07, 2022
 toc: true
