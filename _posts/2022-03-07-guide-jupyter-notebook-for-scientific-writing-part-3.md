@@ -1,5 +1,5 @@
 ---
-title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 3"
+title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 3 - LaTeX"
 excerpt: "Learn about LaTex  and see the list of important LaTeX syntax."
 header:
   image: /assets/images/posts/jupyter_nb_header1.jpg
