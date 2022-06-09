@@ -12,7 +12,7 @@ intro_phd:
 
 feature_row_phd:
   - image_path: /assets/images/posts/python_post_header1.jpg
-    title: "Why you should start learning Python?" 
+    title: "Why you should start learning Python?"
     url: /why-you-should-start-learning-python/
     btn_label: "Read More"
     btn_class: "btn--success"
