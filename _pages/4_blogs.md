@@ -8,21 +8,26 @@ permalink: /blogs/
 author_profile: false
 
 intro_phd: 
-  - title: "PhD Related Posts"
+  - title: "Educational"
 
 feature_row_phd:
+  - image_path: /assets/images/posts/python_post_header1.jpg
+    title: "Why you should start learning Python?" 
+    url: /why-you-should-start-learning-python/
+    btn_label: "Read More"
+    btn_class: "btn--success"
   - image_path: /assets/images/posts/jupyter_nb_header1.jpg
-    title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 3"
+    title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 3 - LaTeX"
     url: /jupyter%20notebooks/guide-jupyter-notebook-for-scientific-writing-part-3/
     btn_label: "Read More"
     btn_class: "btn--success"
   - image_path: /assets/images/posts/jupyter_nb_header1.jpg
-    title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 2"
+    title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 2 - Markdown"
     url: /jupyter%20notebooks/guide-jupyter-notebook-for-scientific-writing-part-2/
     btn_label: "Read More"
     btn_class: "btn--success"
   - image_path: /assets/images/posts/jupyter_nb_header1.jpg
-    title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 1"
+    title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 1 - Jupyter Lab"
     url: /jupyter%20notebooks/guide-jupyter-notebook-for-scientific-writing-part-1/
     btn_label: "Read More"
     btn_class: "btn--success"
@@ -33,7 +38,7 @@ feature_row_phd:
     btn_class: "btn--success"
 
 intro_fluids: 
-  - title: "Fluid Dynamics Posts"
+  - title: "Fluid Dynamics"
 feature_row_fluids:
   - image_path: /assets/images/posts/linkedin_posts/Banner_1.png
     alt: "simulation definition image"
