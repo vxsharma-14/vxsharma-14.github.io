@@ -89,6 +89,10 @@ Following are some of the most lucrative career roles where Python coding is ext
 
 Lastly, whether you are a professional or an amateur who is trying to make a big career move in tech industry, Python knowledge will certainly benefit you.
 
-**Python Workshop**
+## Python Workshop
 
-*If this article has convinced you to start learning Python now, here is an opportunity for you. I am organizing a 10-days workshop where I will be teaching about Python from scratch. Interested? Read more about workshop information and registration process [here](https://rzp.io/l/python101workshops).*
+*If this article has convinced you to start learning Python now, here is an opportunity for you. I am organizing a 10-days workshop where I will be teaching about Python from scratch. Interested? Read more about workshop information and registration process using the link below.*
+
+[To Workshop Page][1]{: .btn .btn--success}
+
+[1]: https://rzp.io/l/python101workshops
