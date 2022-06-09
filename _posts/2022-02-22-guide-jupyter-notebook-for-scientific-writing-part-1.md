@@ -1,5 +1,5 @@
 ---
-title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 1"
+title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 1 - Jupyter Lab"
 excerpt: "An introduction to JupyterLab environment and Jupyter Notebooks."
 header:
   image: /assets/images/posts/jupyter_nb_header1.jpg
