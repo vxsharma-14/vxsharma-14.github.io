@@ -6,10 +6,10 @@ main:
     url: /blogs/
   - title: "About"
     url: /about/
-  - title: "Resume"
-    url: /resume/
-  - title: "Research"
-    url: /research/
+#  - title: "Resume"
+#    url: /resume/
+#  - title: "Research"
+#    url: /research/
   - title: "Workshops"
     url: /workshops/
   
@@ -22,7 +22,7 @@ docs:
     url: /blogs/
   - title: "About"
     url: /about/
-  - title: "Resume"
-    url: /resume/
-  - title: "Research"
-    url: /research/
+#  - title: "Resume"
+#    url: /resume/
+#  - title: "Research"
+#    url: /research/
