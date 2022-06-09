@@ -1,6 +1,6 @@
 ---
 title: "Why you should start learning Python?"
-excerpt: "My viewpoints on why everyone should start learning Python programming now."
+excerpt: "Read this article to know why Python programming is the hottest language to start learning now."
 header:
   teaser: "/assets/images/posts/python_post_header1.jpg"
 date: June 03, 2022
