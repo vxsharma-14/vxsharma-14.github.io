@@ -1,5 +1,5 @@
 ---
-title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 2"
+title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 2 - Markdown"
 excerpt: "Learn about markdown language and see the list of important markdown syntax."
 header:
   image: /assets/images/posts/jupyter_nb_header1.jpg
