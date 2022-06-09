@@ -10,6 +10,8 @@ main:
     url: /resume/
   - title: "Research"
     url: /research/
+  - title: "Workshops"
+    url: /workshops/
   
 
 # sidebar for resume and research pages
