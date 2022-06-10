@@ -2,7 +2,7 @@
 title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 1 - Jupyter Lab"
 excerpt: "An introduction to JupyterLab environment and Jupyter Notebooks."
 header:
-  teaser: /assets/images/posts/jupyter_nb_header1.jpg
+  teaser: /assets/images/posts/jupyternb_header1.png
   caption: "Photo by [Nick Morrison](https://unsplash.com/@nickmorrison) on [Unsplash](https://unsplash.com/)"
 date: February 22, 2022
 toc: true

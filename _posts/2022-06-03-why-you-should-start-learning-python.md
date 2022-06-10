@@ -2,7 +2,7 @@
 title: "Why you should start learning Python?"
 excerpt: "Read this article to know why Python programming is the hottest language to start learning now."
 header:
-  teaser: "/assets/images/posts/python_post_header1.jpg"
+  teaser: "/assets/images/posts/python_post_header1.png"
 date: June 03, 2022
 toc: true
 tags:
@@ -90,6 +90,8 @@ Following are some of the most lucrative career roles where Python coding is ext
 Lastly, whether you are a professional or an amateur who is trying to make a big career move in tech industry, Python knowledge will certainly benefit you.
 
 ## Python Workshop
+
+{% include figure image_path="/assets/images/posts/python_1.png" alt="image containing text python 101 for beginners" %}
 
 *If this article has convinced you to start learning Python now, here is an opportunity for you. I am organizing a 10-days workshop where I will be teaching about Python from scratch. Interested? Read more about workshop information and registration process using the link below.*
 

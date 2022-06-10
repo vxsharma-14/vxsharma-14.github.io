@@ -2,7 +2,7 @@
 title: "A Helpful Guide on using Jupyter Notebook for Scientific Documentation - Part 2 - Markdown"
 excerpt: "Learn about markdown language and see the list of important markdown syntax."
 header:
-  teaser: /assets/images/posts/jupyter_nb_header1.jpg
+  teaser: /assets/images/posts/jupyternb_header_markdown.png
   caption: "Photo by [Nick Morrison](https://unsplash.com/@nickmorrison) on [Unsplash](https://unsplash.com/)"
 date: March 01, 2022
 toc: true
