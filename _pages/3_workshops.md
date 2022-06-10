@@ -11,7 +11,7 @@ intro_1:
   - title: "Upcoming"
 
 feature_row_1:
-  - image_path: /assets/images/python_workshop_cover.png
+  - image_path: /assets/images/posts/python_1.png
     title: "Python 101 Workshops"
     url: https://rzp.io/l/python101workshops
     btn_label: "Read More"
