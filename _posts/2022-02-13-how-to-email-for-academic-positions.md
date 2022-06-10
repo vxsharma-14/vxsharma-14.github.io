@@ -2,7 +2,7 @@
 title: "Emailing tips for Grad Students, PhDs and Postdocs for Research Positions in Academia"
 excerpt: "A guide to help you improve application emails in academia."
 header:
-  teaser: /assets/images/posts/email_header1.jpg
+  teaser: /assets/images/posts/email_header1.png
   caption: "Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/)"
 date: February 14, 2022
 toc: true
