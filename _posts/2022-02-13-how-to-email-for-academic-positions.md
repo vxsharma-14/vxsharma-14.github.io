@@ -6,6 +6,7 @@ header:
   caption: "Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/)"
 date: February 14, 2022
 toc: true
+subscribe: true
 tags:
   - Academic Jobs
   - Early Career Researchers

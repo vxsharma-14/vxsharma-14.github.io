@@ -6,6 +6,7 @@ header:
   caption: "Photo by [Nick Morrison](https://unsplash.com/@nickmorrison) on [Unsplash](https://unsplash.com/)"
 date: March 07, 2022
 toc: true
+subscribe: true
 tags:
   - Academic Writing
   - Jupyter Notebboks
@@ -376,5 +377,3 @@ $$F = G \left(\frac{m_{1} m_{2}}{r^2} \right)$$
 Now, let's take a look at the rendering of equation when `\left` and `\right` are not used with the brackets.
 
 $$F = G ( \frac{m_{1} m_{2}}{r^2} )$$
-
-

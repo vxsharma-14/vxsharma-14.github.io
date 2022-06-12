@@ -6,6 +6,7 @@ header:
   caption: "Photo by [Nick Morrison](https://unsplash.com/@nickmorrison) on [Unsplash](https://unsplash.com/)"
 date: March 01, 2022
 toc: true
+subscribe: true
 tags:
   - Academic Writing
   - Jupyter Notebboks
