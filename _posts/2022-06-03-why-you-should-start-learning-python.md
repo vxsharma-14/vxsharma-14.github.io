@@ -5,6 +5,7 @@ header:
   teaser: "/assets/images/posts/python_post_header1.png"
 date: June 03, 2022
 toc: true
+subscribe: true
 tags:
   - Python
   - Learning
