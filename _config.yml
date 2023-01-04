@@ -28,7 +28,7 @@ title                    : "vxsharma-14.github.io"
 title_separator          : ""
 subtitle                 : "vxsharma-14.github.io" # site tagline that appears below site title in masthead
 name                     : "Dr. Vishal Sharma"
-description              : "My portfolio website to promote my research and consulting work."
+description              : "My portfolio website to promote my consulting work."
 port                     : 4000
 host                     : "0.0.0.0"
 url                      : "https://vxsharma-14.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -117,7 +117,7 @@ analytics:
 author:
   name                   : "Vishal Sharma, PhD"
   avatar                 : "/assets/images/VSharma_avat.jpg"
-  bio                    : Researcher in atmospheric-entry aerothermodynamics. I share content on fluid dynamics, academic topics, and Python related topics.
+  bio                    : Data & Analytics. Solopreneur. Python. Blogger. Let me help you gain insights into your business.
   location               : "India"
   email                  :
   links:
