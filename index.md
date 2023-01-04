@@ -6,12 +6,12 @@ permalink: /
 hidden: true
 author_profile: true
 header:
-  overlay_image: /assets/images/image-home-page-Atmospheric_Re-entry_Demonstrator.jpg
-  caption: "Photo credit: [European Space Agency](https://www.esa.int/)"
-excerpt: "Blogs on fluids, Python, scientific computing, Jupyter Notebooks and my experiences." 
+  overlay_image: /assets/images/image_homepage_unsplash2.jpg
+  caption: "Photo credit: [Unsplash](https://unsplash.com/photos/fiXLQXAhCfk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)"
+excerpt: "Blogs on Python, Jupyter Notebooks, Data & Analytics, fluids and more." 
 ---
-I am an aerospace researcher and I study high temperature gas-dynamics of the flow-field surrounding the atmospheric-entry capsules using computational methods. I am a Python enthusiast and during my free time I maintain NAnPack[^ref1] library -- an open-source educational tool that I am developing for students in Computational Fluid Dynamics. Know more [about me here](/about/).
+I am an inquisitive individual with a strong passion for data analysis. I love using my analytical skills to gain insights from data and visualizations and help organizations make informed decisions. One of my main tools for data analysis is coding in Python, which I have a strong proficiency in. I enjoy the challenges that come with working with large datasets and finding creative solutions to extract valuable insights. I am always eager to learn and expand my skills, and I am excited to bring my inquisitive nature and data analysis expertise to any project I take on.
 
-[^ref1]: The development version is available for download on Python Packaging Index (PyPI) and on my GitHub repository - [project-NAnPack](https://github.com/vxsharma-14/project-NAnPack).
+Visit [About Me](/about/) page to know more about my work.
 
 *Let's connect on [Twitter](https://twitter.com/DrVishal_aero) and/or [LinkedIn](https://www.linkedin.com/in/vishalsharmaofficial/)*.  
