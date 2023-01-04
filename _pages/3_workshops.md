@@ -8,7 +8,7 @@ permalink: /workshops/
 author_profile: false
 
 intro_1: 
-  - title: "Upcoming"
+  - title: "Past"
 
 feature_row_1:
   - image_path: /assets/images/posts/python_1.png
