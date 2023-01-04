@@ -2,8 +2,8 @@
 layout: single
 title: Resume
 header:
-  overlay_image: /assets/images/image-home-page-Atmospheric_Re-entry_Demonstrator.jpg
-  caption: "Photo credit: [European Space Agency](https://www.esa.int/)"
+  overlay_image: /assets/images/image_homepage_unsplash2.jpg
+  caption: "Photo credit: [Unsplash](https://unsplash.com/photos/fiXLQXAhCfk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)"
 permalink: /resume/
 author_profile: false
 sidebar:
