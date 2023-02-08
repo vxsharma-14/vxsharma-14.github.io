@@ -91,7 +91,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "DrVishal_aero"
+  username               : "vishals_py"
 facebook:
   username               :
   app_id                 :
@@ -132,7 +132,7 @@ author:
       url                : "https://linkedin.com/in/vishalsharmaofficial/"
     - label              : "Twitter"
       icon               : "fab fa-fw fa-twitter-square"
-      url                : "https://twitter.com/DrVishal_aero"
+      url                : "https://twitter.com/vishals_py"
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
       url                : "https://github.com/vxsharma-14"
@@ -145,7 +145,7 @@ footer:
   links:
     - label              : "Twitter"
       icon               : "fab fa-fw fa-twitter-square"
-      url                : "https://twitter.com/FollowingVishal"
+      url                : "https://twitter.com/vishals_py"
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
       url                : "https://github.com/vxsharma-14"
