@@ -10,7 +10,6 @@ tags:
   - Data Science
   - Feature Engineering
   - EDA
-author_profile: false
 ---
 
 ## Introduction
