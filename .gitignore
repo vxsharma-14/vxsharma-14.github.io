@@ -1,4 +1,6 @@
+.gitignore
 _site
+.idea
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
@@ -12,3 +14,4 @@ _jupyter
 /_pages/5_consulting.md
 /_pages/6_tutoring.md
 /_pages/blogs_feature_row.md
+assets/images/image_homepage_unsplash.jpg
