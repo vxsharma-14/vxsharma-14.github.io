@@ -12,6 +12,8 @@ main:
 #    url: /research/
   - title: "Workshops"
     url: /workshops/
+  - title: "Privacy"
+    url: /privacy/
   
 
 # sidebar for resume and research pages
