@@ -19,8 +19,8 @@ feature_row1:
     title: "Customized Web Scraping Solutions"
     excerpt: "Get tailored web scraping solutions for your specific use case. We offer API-based scraping and parsing of search engine results to extract the data you need to drive your business decisions."
 feature_row2:
-  - image_path: /assets/images/posts/sarda/jupyternb_header_latex.png
-    alt: "placeholder image 2"
+  - image_path: /assets/images/sarda/marketing_analytics.jpg
+    alt: "marketing analytics"
     title: "Marketing and Consumer Insights"
     excerpt: "Get valuable insights into your customers' behavior and preferences by leveraging our data acquisition and analysis solutions. We gather data from various sources such as marketing campaigns and customer feedback, and provide you with actionable insights to improve your business strategies."
 feature_row3:
