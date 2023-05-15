@@ -40,7 +40,7 @@ feature_row3:
 
 ---
 
-[Services](/sarda-dataworks/services/){: .btn .btn--large .blue .scarlet-red} [Solutions](/sarda-dataworks/solutions/){: .btn .btn--large .scarlet-red} [Projects](/sarda-dataworks/projects/){: .btn .btn--large .scarlet-red}
+[Services](/sarda-dataworks/services/){: .btn .btn--large} [Solutions](/sarda-dataworks/solutions/){: .btn .btn--large} [Projects](/sarda-dataworks/projects/){: .btn .btn--large}
 
 ---
 <div style="width:100%; background-color:#E7DFD8; height:30rem; text-align:center;">
