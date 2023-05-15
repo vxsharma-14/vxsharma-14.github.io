@@ -24,19 +24,19 @@ minimal_mistakes_skin    : "air" #"air", "aqua", "contrast", "dark", "dirt", "ne
 
 # Site Settings
 locale                   : "en-US"
-title                    : "vxsharma-14.github.io"
+title                    : "SARDA DataWorks"
 title_separator          : ""
 subtitle                 : "vxsharma-14.github.io" # site tagline that appears below site title in masthead
 name                     : "Dr. Vishal Sharma"
-description              : "My portfolio website to promote my consulting work."
+description              : "My portfolio website."
 port                     : 4000
 host                     : "0.0.0.0"
 url                      : "https://vxsharma-14.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : vxsharma-14/vxsharma-14.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # /assets/images/joel-filipe-thumb-800.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+teaser                   : /assets/images/sarda/data_analytics.jpg # /assets/images/joel-filipe-thumb-800.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : /assets/images/favicon/favicon.ico # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "SARDA DataWorks" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -114,7 +114,7 @@ analytics:
 author:
   name                   : "Vishal Sharma, PhD"
   avatar                 : "/assets/images/VSharma_avat.jpg"
-  bio                    : Data & Analytics. Solopreneur. Python. Blogger. Let me help you gain insights into your business.
+  bio                    : Owner and Principal Consultant at SARDA DataWorks - a data intelligence agency. I love helping my clients make innovative data-driven solutions.
   location               : "India"
   email                  :
   links:
@@ -133,9 +133,9 @@ author:
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
       url                : "https://github.com/vxsharma-14"
-    - label              : "Instagram"
-      icon               : "fab fa-fw fa-instagram"
-      url                : "https://instagram.com/iamvsharma/"
+#   - label              : "Instagram"
+#      icon               : "fab fa-fw fa-instagram"
+#      url                : "https://instagram.com/iamvsharma/"
 
 # Site Footer
 footer:
@@ -146,9 +146,9 @@ footer:
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
       url                : "https://github.com/vxsharma-14"
-    - label              : "Instagram"
-      icon               : "fab fa-fw fa-instagram"
-      url                : "https://instagram.com/iamvsharma/"
+#    - label              : "Instagram"
+#      icon               : "fab fa-fw fa-instagram"
+#      url                : "https://instagram.com/iamvsharma/"
     - label              : "Linkedin"
       icon               : "fab fa-fw fa-linkedin"
       url                : "https://linkedin.com/in/vishalsharmaofficial/"
@@ -300,7 +300,7 @@ defaults:
         type             : posts
       values:
         layout           : single
-        author_profile   : true
+        author_profile   : false
         read_time        : true
         comments         : true
         share            : true
