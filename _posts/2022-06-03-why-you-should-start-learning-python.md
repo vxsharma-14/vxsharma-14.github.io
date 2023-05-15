@@ -22,6 +22,9 @@ There is a sea of programming languages out there which can be overwhelming for 
 
 Of all the languages, the one that catches the eye is Python. Python is a very popular langauge and an important one too. The usage of Python in industries is growing at a very fast pace. Definitely you should spend your valuable time on learning Python because of obvious reasons that are entailed in this article. 
 
+<i class="fa fa-code"></i> I have prepared a webapp for Python pop quiz for you to practice your skills. Give it a try here: [Python Quiz Exercises](https://python-qa-exercise.herokuapp.com/)
+{: .notice--success}  
+
 ## Why Python?
 
 I will not make comparisons between Python and other languages because it's not a matter of debate. Each langauge has its share of benefits and limitations and which language to choose depends on the project that you are trying to accompalish. If that is so, then the question arises - why Python?
