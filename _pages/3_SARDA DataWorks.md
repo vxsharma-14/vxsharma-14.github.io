@@ -28,18 +28,21 @@ feature_row3:
   - image_path: /assets/images/sarda/football_analytics.jpg
     alt: "football analytics"
     title: "Football Analytics"
-    excerpt: "<a style='text-align:left; font-size:1rem;' href='/sarda-dataworks/projects/#football-analytics'>Read Football Analytics project description</a>"
+    excerpt: "<a style='text-align:left; font-size:0.8rem;' href='/sarda-dataworks/projects/#football-analytics'>Read Football Analytics project description</a>"
   - image_path: /assets/images/sarda/inventory.jpg
     alt: "placeholder image 2"
     title: "Inventory Optimization through Predictive Analytics"
-    excerpt: "<a style='text-align:left; font-size:1rem;' href='/sarda-dataworks/projects/#inventory-optimization'>Read Inventory Optimization project description</a>"
+    excerpt: "<a style='text-align:left; font-size:0.8rem;' href='/sarda-dataworks/projects/#inventory-optimization'>Read Inventory Optimization project description</a>"
   - image_path: /assets/images/sarda/twitter_analytics.jpg
     alt: "placeholder image 2"
     title: "Customer Sentiment Analysis from Twitter"
-    excerpt: "<a style='text-align:left; font-size:1rem;' href='/sarda-dataworks/projects/#twitter-analytics'>Read Sentiment Analysis project description</a>"
+    excerpt: "<a style='text-align:left; font-size:0.8rem;' href='/sarda-dataworks/projects/#twitter-analytics'>Read Sentiment Analysis project description</a>"
 
 ---
 
+[Services](/sarda-dataworks/services/){: .btn .btn--large .blue .scarlet-red} [Solutions](/sarda-dataworks/solutions/){: .btn .btn--large .scarlet-red} [Projects](/sarda-dataworks/projects/){: .btn .btn--large .scarlet-red}
+
+---
 <div style="width:100%; background-color:#E7DFD8; height:30rem; text-align:center;">
   <h1 style="padding-top:4rem; color: #888F70; font-size:2rem;">Who We Are</h1>
   <img src="/assets/images/sarda/logo_beige_bg.png">
