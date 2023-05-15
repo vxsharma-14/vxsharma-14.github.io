@@ -11,11 +11,11 @@ html {
   font-size: 16px;
 
   @include breakpoint($medium) {
-    font-size: 18px;
+    font-size: 15px;
   }
 
   @include breakpoint($large) {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   @include breakpoint($x-large) {
@@ -184,4 +184,35 @@ input[type="search"]::-webkit-search-cancel-button {
 textarea {
   overflow: auto; /* remove vertical scrollbar in IE6-9*/
   vertical-align: top; /* readability and alignment cross-browser*/
+}
+
+.green {
+  color: #3F4726;
+}
+
+.off-white {
+  color: #EFF0EC;
+  font-weight: bold;
+}
+
+.blue {
+  color: #0000FF;
+ }
+ 
+.scarlet-red {
+  color: #ff2400;
+}
+
+.violet {
+  color: #7F00FF;
+}
+
+
+.mauve {
+  color: #E0B0FF;
+}
+
+
+.pastel-purple {
+  color: #C3B1E1;
 }
