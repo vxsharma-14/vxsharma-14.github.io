@@ -7,20 +7,32 @@ header:
 permalink: /about/
 author_profile: true
 ---
-With over nine years of diverse experience in research, analytics, and management, I am currently working as a freelance Data Analyst. Through my PhD training, I have developed a range of transferrable skills that I am able to utilize in my current role, including data analysis and visualization, coding in Python pandas and working with MS Excel. I am able to offer my expertise to clients through platforms such as Upwork and Fiverr, as well as to small businesses seeking to better understand their operations through data analysis.
 
-Throughout my career, I have worked in various industries including banking, education, and aerospace research. I hold a PhD in Aerospace Engineering from Wichita State University and run an online brand of festive decor products in India. I am always looking for new collaborators and clients to work with, and I am equipped with a wide range of skills and tools to help solve problems and provide valuable insights through data analysis. I am committed to helping businesses scale and streamline their operations.
+I am an inquisitive individual with over nine years of diverse experience in research, analytics, and management. As the Principal Consultant and Owner of [SARDA DataWorks](/sarda-dataworks), which is a data intelligence agency, I specialize in providing consulting and tailored solutions in big data, analytics, and machine learning to startups in the retail sector. I use strategic research and analytics to help my clients leverage the power of data and find creative solutions to extract valuable insights from large datasets.
 
-### Tools and Libraries
+My expertise comes from my PhD degree from Wichita State University, Wichita, KS, USA, where I developed a range of transferable skills that I now apply to my consulting work. I have also worked across various industries, including banking, education, and aerospace research, which has equipped me with a wide range of skills to provide value to my clients.
+
+In addition to my consulting work, I run an online brand of festive decor products in India. This has given me valuable insights into e-commerce and customer behavior, which I leverage to develop innovative and data-driven solutions for startups in the retail sector. I have helped a fashion startup optimize their inventory management through predictive analytics and developed a recommendation engine for a home goods retailer, among other projects.
+
+Overall, my passion for data science and analytics, combined with my diverse experience and expertise, enables me to bring unique insights and solutions to any project I take on.
+
+[Jump to view my Resume](#resume)
+
+### Skillset
+---
 
 | Category | Tools & Libraries |
 | --- | --- |
 | Development Environments | Jupyter Notebooks, PyCharm IDE, VS Code, Spyder |
-| Data Management | MySQL, PostgreSQL, IBM DB2 |
-| Web Scraping | BeautifulSoup |
+| DBMS | MySQL, PostgreSQL, DB2 |
+| Data Collection | BeautifulSoup, APIs |
 | Data Wrangling & Analytics | Python, NumPy, pandas, MS Excel |
-| Data Visualization | matplotlib, seaborn, MS Excel, Tableau, Plotly, Dash |
-| Big Data | PySpark |
-| Machine Learning | scikit-learn |
+| Data Visualization | matplotlib, seaborn, MS Excel |
+| Big Data | PySpark, Apache Kafka, Hadoop |
+| Machine Learning | scikit-learn, TensorFlow |
 | Code Asset Management | GitHub |
+| Deployment | Heroku |
 
+### Resume
+---
+<object data="/assets/docs/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
