@@ -1,6 +1,9 @@
 ---
 layout: single
 title: Privacy Notice
+header:
+  overlay_image: /assets/images/image_homepage_unsplash2.jpg
+  caption: "Photo credit: [Unsplash](https://unsplash.com/photos/fiXLQXAhCfk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)"
 permalink: /privacy/
 author_profile: false
 ---
