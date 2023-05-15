@@ -8,7 +8,7 @@ permalink: /about/
 author_profile: true
 ---
 
-I am an inquisitive individual with over nine years of diverse experience in research, analytics, and management. As the Principal Consultant and Owner of [SARDA DataWorks](/sarda-dataworks), which is a data intelligence agency, I specialize in providing consulting and tailored solutions in big data, analytics, and machine learning to startups in the retail sector. I use strategic research and analytics to help my clients leverage the power of data and find creative solutions to extract valuable insights from large datasets.
+I am an inquisitive individual with over nine years of diverse experience in research, analytics, and management. As the Principal Consultant and Owner of [SARDA DataWorks](/sarda-dataworks){: .blue}, which is a data intelligence agency, I specialize in providing consulting and tailored solutions in big data, analytics, and machine learning to startups in the retail sector. I use strategic research and analytics to help my clients leverage the power of data and find creative solutions to extract valuable insights from large datasets.
 
 My expertise comes from my PhD degree from Wichita State University, Wichita, KS, USA, where I developed a range of transferable skills that I now apply to my consulting work. I have also worked across various industries, including banking, education, and aerospace research, which has equipped me with a wide range of skills to provide value to my clients.
 
@@ -16,7 +16,7 @@ In addition to my consulting work, I run an online brand of festive decor produc
 
 Overall, my passion for data science and analytics, combined with my diverse experience and expertise, enables me to bring unique insights and solutions to any project I take on.
 
-[Jump to view my Resume](#resume)
+Jump to [Resume](#resume){: .blue}
 
 ### Skillset
 ---
