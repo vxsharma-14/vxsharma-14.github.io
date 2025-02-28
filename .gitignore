@@ -7,6 +7,7 @@ _site
 .ipynb_checkpoints
 _posts_samples
 projects
+projects_samples/
 _jupyter
 /_pages/1_about2.md
 /_pages/3_projects2.md
