@@ -2,11 +2,18 @@
 title: "How Self-Supervised Learning is Redefining Computer Vision"
 excerpt: "Self-supervised learning is revolutionizing computer vision by eliminating the need for vast labeled datasets. Discover how industry giants like Google and Meta are leveraging SSL, its advantages over supervised learning, and its real-world impact. Explore the latest research, applications, and future trends shaping AI. Find out how SSL is revolutionizing the future of vision AI."
 header:
-  teaser: "/assets/images/posts/data_governance_header.png"
-date: March 06, 2025
+  teaser: "/assets/images/posts/ssl_transforming_cv_header.jpg"
+date: March 07, 2025
+subscribe: true
+tags:
+  - Self-supervised Learning
+  - Computer Vision
+  - AI/ML
+  - Facial Detection
+  - Image Recognition
 ---
 
-# How Self-Supervised Learning is Redefining Computer Vision
+![Deep Learning](../assets/images/posts/ssl_transforming_cv_2.jpg)
 
 # Introduction
 
@@ -35,12 +42,17 @@ Self-supervised learning is a subset of unsupervised learning where a model crea
 
 ### **Key Concepts in SSL:**
 
-1. **Pretext Tasks**: Tasks designed to help the model learn useful features without explicit labels. Examples include:
-    - **Contrastive Learning** (e.g., SimCLR, MoCo) – Pulling together similar representations and pushing apart dissimilar ones.
-    - **Predictive Learning**: Filling missing image patches (e.g., MAE - Masked Autoencoders, BERT-inspired vision models).
-    - **Clustering-based Learning**: Assigning pseudo-labels to unlabeled images and training the model to recognize clusters (e.g., SwAV, DeepCluster).
-2. **Downstream Tasks**: After learning useful representations, the model is fine-tuned on specific tasks like object detection, segmentation, or classification.
-3. **Loss Functions**: SSL relies on innovative loss functions like contrastive loss, clustering loss, or masked reconstruction loss to train without explicit labels.
+**Pretext Tasks**   
+Tasks designed to help the model learn useful features without explicit labels. Examples include:
+- **Contrastive Learning** (e.g., SimCLR, MoCo) – Pulling together similar representations and pushing apart dissimilar ones.
+- **Predictive Learning**: Filling missing image patches (e.g., MAE - Masked Autoencoders, BERT-inspired vision models).
+- **Clustering-based Learning**: Assigning pseudo-labels to unlabeled images and training the model to recognize clusters (e.g., SwAV, DeepCluster).  
+
+**Downstream Tasks**  
+After learning useful representations, the model is fine-tuned on specific tasks like object detection, segmentation, or classification.
+
+**Loss Functions**  
+SSL relies on innovative loss functions like contrastive loss, clustering loss, or masked reconstruction loss to train without explicit labels.
 
 ---
 
@@ -51,6 +63,7 @@ Recent advancements in SSL have led to models that rival or even surpass supervi
 ### **1. Contrastive Learning: SimCLR & MoCo**
 
 Contrastive learning methods like **SimCLR [(Chen et al., 2020)](https://arxiv.org/abs/2002.05709)** and **MoCo [(He et al., 2020)](https://arxiv.org/abs/1911.05722)** revolutionized self-supervised learning by introducing augmentation-based training. They learn representations by maximizing similarity between differently augmented views of the same image while distinguishing it from others.
+
 
 **Impact:**
 
@@ -65,6 +78,10 @@ Instead of relying on instance discrimination, methods like **SwAV [(Caron et al
 
 - Improved performance in domain adaptation.
 - Better semantic structure understanding without labels.
+
+![SwAV](https://camo.githubusercontent.com/2c3692e53bcdb1c2ca52962521731db030d62068842587dacefebb8ebbb46582/68747470733a2f2f646c2e666261697075626c696366696c65732e636f6d2f64656570636c75737465722f616e696d617465642e676966)
+
+Video Source: [Facebook Research Github Repository](https://github.com/facebookresearch/swav?tab=readme-ov-file) 
 
 ### **3. Vision Transformers and Masked Autoencoders**
 
@@ -88,13 +105,19 @@ Leading AI-driven companies are actively integrating self-supervised learning in
 - **OpenAI**: Leveraging self-supervised learning to improve multimodal models like [CLIP](https://openai.com/index/clip/) and [DALL·E](https://openai.com/index/dall-e-2/), bridging vision and language tasks.
 - **Tesla**: Incorporating SSL in autonomous driving models to learn from millions of unlabeled driving videos, reducing dependency on manually labeled datasets.
 
+<video src="https://video.fdel11-3.fna.fbcdn.net/o1/v/t2/f2/m69/AQORThsvK7Z0Gi7_Nmr-jI3hWekOK0RS2p32wMrzTPQXNYBJrIGGnmzv96RGvOAVTvFk86GKkNZp-JbHZXlWbI3U.mp4?strext=1&_nc_cat=108&_nc_oc=AdjavqcpGmmON0OWoA6ClnTnVAObhrJjzs8c6UlbeDXzQlRYii7F_CuA6IGfs6PsbAh52yszGzhb60UvBmHNvxn4&_nc_sid=8bf8fe&_nc_ht=video.fdel11-3.fna.fbcdn.net&_nc_ohc=DLZtpi7_fLwQ7kNvgFWCFX5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NTMzNzAzMTA1NjI2NjEwLCJhc3NldF9hZ2VfZGF5cyI6NjkzLCJ2aV91c2VjYXNlX2lkIjoxMDEyOCwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_zt=28&oh=00_AYExKIM4s3uJYjLq20FRpwFfdHpw6FAitma8DEGC9_VsEA&oe=67D03EF2" width="640" height="360" controls muted autoplay></video>
+
+Video Source: [Meta AI Blog on DINOv2](https://ai.meta.com/blog/dino-v2-computer-vision-self-supervised-learning/)
+
 ## **Research and Real-World Applications**
 
 The impact of SSL is evident across industries:
 
-- **Healthcare**: Self-supervised models improve diagnostic accuracy by learning from raw medical images, reducing reliance on scarce expert-labeled data.
+- **Healthcare**: Self-supervised models improve diagnostic accuracy by learning from raw medical images, reducing reliance on scarce expert-labeled data. [Read about challenges in Medical Imaging](https://www.linkedin.com/posts/vishalsharmaofficial_medicalimaging-ai-deeplearning-activity-7295698100596154372-Nd-b?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAvUCqUB0D6A_jkBa0XmrpYwLAZjmCUmJDY)
 - **Autonomous Systems**: SSL enhances perception in robotics and self-driving vehicles, allowing machines to learn from real-world scenarios efficiently.
 - **Retail & Surveillance**: Face recognition and behavioral analytics benefit from SSL's ability to adapt to diverse environments without manual intervention.
+
+![facial detection](../assets/images/posts/ssl_transforming_cv_3.jpg)
 
 ---
 
