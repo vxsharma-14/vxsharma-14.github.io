@@ -2,7 +2,7 @@
 title: "Vision Transformers and the Future of Image Processing"
 excerpt: "What are Vision Transformers (ViTs), and why are they replacing CNNs? This blog post explores the architecture, advantages, and applications of ViTs in image processing, from healthcare to autonomous vehicles, and their potential to transform AI."
 header:
-  teaser: "/assets/images/posts/ViTs_header.png"
+  teaser: "/assets/images/posts/ViTs_header.jpg"
 date: April 05, 2025
 subscribe: true
 tags:
